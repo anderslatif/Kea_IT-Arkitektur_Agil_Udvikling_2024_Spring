@@ -1,0 +1,399 @@
+1: create a file called recommend.txt
+
+2: echo 'rider abortion evaluate bay excuse' into the file
+
+3: create a file called architecture.txt and rename it so that it's called salvation.txt instead. Hint: This should be done in 2 commands
+
+4: output the content of any file in the directory
+
+5: delete the last folder you created
+
+6: create a file called needle.txt
+
+7: output hidden files
+
+8: echo 'evaluate regret banish surprise sister' into the file
+
+9: output what's in the directory
+
+10: create a file called honor.txt and rename it so that it's called ethics.txt instead. Hint: This should be done in 2 commands
+
+11: move two folders up
+
+12: create a file called shot.txt. Put the text 'on pen panel architecture cousin' in it and copy it so there is also a bay.txt with same content
+
+13: open a file in the terminal and see the content
+
+14: output the content of any file in the directory
+
+15: create two directories excuse and recession and move into recession
+
+16: echo 'panel evaluate advantage terminal plane' into the file
+
+17: output who the active user is
+
+18: delete the last file you created
+
+19: output who the active user is
+
+20: create a file called recommend.txt and rename it so that it's called appreciate.txt instead. Hint: This should be done in 2 commands
+
+21: echo 'speculate abortion depression regret support' into the file
+
+22: output the sizes of the files in the directory
+
+23: create a file called experienced.txt. Put the text 'advice cousin rider stock plane' in it and copy it so there is also a honor.txt with same content
+
+24: delete the last file you created
+
+25: create a file called shot.txt and rename it so that it's called surprise.txt instead. Hint: This should be done in 2 commands
+
+26: output hidden files
+
+27: create two directories shallow and identity and move into identity
+
+28: create a file called abortion.txt. Put the text 'discover nerve rider salvation banish' in it and copy it so there is also a nerve.txt with same content
+
+29: delete the last folder you created
+
+30: move two folders up
+
+31: create a file called evaluate.txt and immediately delete it
+
+32: output the content of any file in the directory
+
+33: output the content of any file in the directory
+
+34: create a directory surprise and move into the directory
+
+35: if there are any directories in the folder then move inside any one of them
+
+36: create a file called terminal.txt. Put the text 'honor advantage proportion hill stock' in it and copy it so there is also a ethics.txt with same content
+
+37: move two folders up
+
+38: create a file called surprise.txt and rename it so that it's called discover.txt instead. Hint: This should be done in 2 commands
+
+39: move one level up
+
+40: create a file called support.txt and rename it so that it's called nerve.txt instead. Hint: This should be done in 2 commands
+
+41: create a file called responsibility.txt and immediately delete it
+
+42: move one level up
+
+43: output the content of any file in the directory
+
+44: create two directories relative and beat and move into beat
+
+45: create a file called responsibility.txt
+
+46: output who the active user is
+
+47: output the sizes of the files in the directory
+
+48: output who the active user is
+
+49: delete the last folder you created
+
+50: echo 'banish experienced evaluate support depression' into the file
+
+51: echo 'nerve shallow pioneer recommend responsibility' into the file
+
+52: open a file in the terminal and see the content
+
+53: if there are any directories in the folder then move inside any one of them
+
+54: create a file called on.txt. Put the text 'identity honor sister experienced appreciate' in it and copy it so there is also a advice.txt with same content
+
+55: create a file called plane.txt and rename it so that it's called surprise.txt instead. Hint: This should be done in 2 commands
+
+56: create two directories bay and rider and move into rider
+
+57: create a directory support and move into the directory
+
+58: output the content of any file in the directory
+
+59: output what's in the directory
+
+60: if there are any directories in the folder then move inside any one of them
+
+61: create a directory banish and move into the directory
+
+62: create two directories relative and relative and move into relative
+
+63: delete the last file you created
+
+64: output the content of any file in the directory
+
+65: create a file called recommend.txt and immediately delete it
+
+66: move two folders up
+
+67: create a file called excuse.txt and immediately delete it
+
+68: write something in a file called pioneer.txt
+
+69: open a file in the terminal and see the content
+
+70: echo 'beat cater plane ethics pray' into the file
+
+71: output the full path you are on
+
+72: delete the last file you created
+
+73: create a file called shallow.txt
+
+74: output hidden files
+
+75: write something in a file called salvation.txt
+
+76: output the content of any file in the directory
+
+77: create a file called relative.txt. Put the text 'surprise surprise beat cousin regret' in it and copy it so there is also a appreciate.txt with same content
+
+78: output the content of any file in the directory
+
+79: create a file called ditch.txt and rename it so that it's called ethics.txt instead. Hint: This should be done in 2 commands
+
+80: open a file in the terminal and see the content
+
+81: open a file in the terminal and see the content
+
+82: move two folders up
+
+83: output what's in the directory
+
+84: move one level up
+
+85: create two directories advice and shallow and move into shallow
+
+86: delete the last folder you created
+
+87: output the sizes of the files in the directory
+
+88: delete the last file you created
+
+89: output the content of any file in the directory
+
+90: echo 'experienced shallow rider medal discover' into the file
+
+91: if there are any directories in the folder then move inside any one of them
+
+92: move two folders up
+
+93: create two directories relative and on and move into on
+
+94: create a file called rider.txt
+
+95: delete the last folder you created
+
+96: create a file called ethics.txt and rename it so that it's called cousin.txt instead. Hint: This should be done in 2 commands
+
+97: output the content of any file in the directory
+
+98: output the full path you are on
+
+99: create a file called medal.txt and rename it so that it's called surprise.txt instead. Hint: This should be done in 2 commands
+
+100: move two folders up
+
+101: create two directories correspondence and ethics and move into ethics
+
+102: echo 'appreciate evaluate speculate excuse pen' into the file
+
+103: output who the active user is
+
+104: delete the last folder you created
+
+105: if there are any directories in the folder then move inside any one of them
+
+106: create a file called depression.txt
+
+107: create a file called rain.txt. Put the text 'recommend on pray banish hill' in it and copy it so there is also a excuse.txt with same content
+
+108: move one level up
+
+109: create a file called evaluate.txt and rename it so that it's called rider.txt instead. Hint: This should be done in 2 commands
+
+110: create a file called on.txt
+
+111: create a file called rider.txt. Put the text 'rider cater hill ethics terminal' in it and copy it so there is also a shot.txt with same content
+
+112: create a file called plane.txt
+
+113: delete the last file you created
+
+114: move one level up
+
+115: create two directories interference and ethics and move into ethics
+
+116: output the content of any file in the directory
+
+117: create a file called nerve.txt and rename it so that it's called recommend.txt instead. Hint: This should be done in 2 commands
+
+118: write something in a file called ethics.txt
+
+119: move one level up
+
+120: output hidden files
+
+121: open a file in the terminal and see the content
+
+122: output hidden files
+
+123: create a directory advantage and move into the directory
+
+124: if there are any directories in the folder then move inside any one of them
+
+125: create two directories recession and nerve and move into nerve
+
+126: create a file called correspondence.txt. Put the text 'honor depression experienced sister identity' in it and copy it so there is also a needle.txt with same content
+
+127: delete the last folder you created
+
+128: delete the last file you created
+
+129: move one level up
+
+130: create a file called pray.txt
+
+131: delete the last file you created
+
+132: create two directories on and pioneer and move into pioneer
+
+133: if there are any directories in the folder then move inside any one of them
+
+134: delete the last file you created
+
+135: move two folders up
+
+136: output hidden files
+
+137: move two folders up
+
+138: create a directory appreciate and move into the directory
+
+139: create a file called sister.txt. Put the text 'recession cousin recession nerve shot' in it and copy it so there is also a rider.txt with same content
+
+140: output the sizes of the files in the directory
+
+141: output who the active user is
+
+142: create a file called surprise.txt and immediately delete it
+
+143: open a file in the terminal and see the content
+
+144: delete the last file you created
+
+145: output the sizes of the files in the directory
+
+146: output hidden files
+
+147: create a file called advantage.txt and immediately delete it
+
+148: output hidden files
+
+149: output the content of any file in the directory
+
+150: write something in a file called panel.txt
+
+151: output the content of any file in the directory
+
+152: if there are any directories in the folder then move inside any one of them
+
+153: open a file in the terminal and see the content
+
+154: delete the last folder you created
+
+155: create two directories rain and panel and move into panel
+
+156: output the sizes of the files in the directory
+
+157: delete the last folder you created
+
+158: output what's in the directory
+
+159: create two directories relative and rider and move into rider
+
+160: output hidden files
+
+161: output what's in the directory
+
+162: move two folders up
+
+163: create a file called pioneer.txt and rename it so that it's called banish.txt instead. Hint: This should be done in 2 commands
+
+164: create a file called shot.txt and immediately delete it
+
+165: delete the last folder you created
+
+166: delete the last file you created
+
+167: move one level up
+
+168: create a file called plane.txt
+
+169: create a file called stock.txt and rename it so that it's called identity.txt instead. Hint: This should be done in 2 commands
+
+170: move two folders up
+
+171: if there are any directories in the folder then move inside any one of them
+
+172: echo 'banish proportion stock shallow needle' into the file
+
+173: delete the last file you created
+
+174: create a file called stock.txt
+
+175: create a file called support.txt and immediately delete it
+
+176: output hidden files
+
+177: create a file called interference.txt and rename it so that it's called degree.txt instead. Hint: This should be done in 2 commands
+
+178: move two folders up
+
+179: output the sizes of the files in the directory
+
+180: output hidden files
+
+181: echo 'terminal salvation cousin correspondence medal' into the file
+
+182: output the content of any file in the directory
+
+183: open a file in the terminal and see the content
+
+184: output hidden files
+
+185: write something in a file called shot.txt
+
+186: output the sizes of the files in the directory
+
+187: create a file called appreciate.txt and rename it so that it's called rain.txt instead. Hint: This should be done in 2 commands
+
+188: output hidden files
+
+189: if there are any directories in the folder then move inside any one of them
+
+190: move two folders up
+
+191: create two directories banish and surprise and move into surprise
+
+192: output the full path you are on
+
+193: create a file called responsibility.txt and immediately delete it
+
+194: open a file in the terminal and see the content
+
+195: open a file in the terminal and see the content
+
+196: create a file called hill.txt
+
+197: output who the active user is
+
+198: create a file called pray.txt
+
+199: echo 'identity responsibility salvation panel depression' into the file
+
+200: move one level up
