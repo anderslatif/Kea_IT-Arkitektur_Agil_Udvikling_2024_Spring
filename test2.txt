@@ -1,1 +1,1 @@
-Adding this to Git. 
+Adding this to Git. This is an addition.
