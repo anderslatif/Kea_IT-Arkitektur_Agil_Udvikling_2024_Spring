@@ -1,6 +1,6 @@
 ### All students
 
-Create an Azure for Students account
+Create an Azure for Students account (Remember to use your KEA-mail)
 
 https://azure.microsoft.com/en-us/free/students/
 
@@ -22,3 +22,6 @@ https://learn.microsoft.com/en-us/windows/wsl/install
 
 Install Homebrew
 
+Link to official Homebrew download page: https://brew.sh/da/
+
+Video guide on how to download for Macbook M1 or newer: https://www.youtube.com/watch?v=Qvfvj-UCJuQ&t=162s
