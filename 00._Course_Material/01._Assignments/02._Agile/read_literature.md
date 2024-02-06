@@ -5,10 +5,9 @@ Please do the reading since we will discuss it next week.
 
 ## The DevOps Handbook
 
-The first chapter of the DevOps Handbook is full of insightful truths and multiple readings will uncover them. I recommend going back on your own throughout the semester. 
+The first chapter of the DevOps Handbook is full of insightful truths and multiple readings will uncover them. You will get 3 weeks to read this chapter since it is dense and full of information. Make sure to have read it before the guest lecture. I recommend going back on your own throughout the semester. 
 
 Filename: `Chapter 1.pdf`
-
 
 ## The Phoenix Project - Excerpt
 
