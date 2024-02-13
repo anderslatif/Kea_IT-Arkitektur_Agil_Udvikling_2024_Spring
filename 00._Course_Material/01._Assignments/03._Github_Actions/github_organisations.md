@@ -1,9 +1,9 @@
-# Github organisations
+## [Group] Github organisations
 
-With your designated group create a new organisation. 
+With your designated semester groups create a new organisation. 
 
 https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch
 
-Invite each other as collaborators. Give everyone admin rights. 
+Invite each other as collaborators on an organisation level. Give everyone admin rights. 
 
-Create a new joint repository for the course. 
+Create joint (a) repositor(y/ies) for your current courses as you see fit. 

@@ -13,3 +13,4 @@ $ git push -u origin <branch-name>
 
 3. Create a pull request in the Github UI that someone else in the group accepts. 
 
+You are done once everyone has created a PR. Doing it multiple times to get into the habbit of it is encouraged. 
