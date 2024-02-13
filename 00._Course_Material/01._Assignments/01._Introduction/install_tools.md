@@ -20,5 +20,6 @@ https://learn.microsoft.com/en-us/windows/wsl/install
 
 ## Mac Users
 
-Install Homebrew
+https://brew.sh/
 
+Video guide on how to download for Macbook M1 or newer: https://youtu.be/Qvfvj-UCJuQ?t=55
