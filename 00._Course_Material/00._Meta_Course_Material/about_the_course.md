@@ -15,7 +15,9 @@ As we proceed during the semester links to other repositories will be pinned in 
 
 The repositories will be made private and uploaded as zip files to Teams after the first set of exams. 
 
-Teams will be used for communication. Besides deeply personal matters all communication should be in the Teams channel. This create transparency and gives everyone the ability to see the discussion and my answers. 
+Teams will be used for communication. @ me so I can see if you have typed a question there. 
+
+Besides deeply personal matters all communication should be in the Teams channel. This create transparency and gives everyone the ability to see the discussion and my answers. 
 
 Hand-ins will be in Teams as well. 
 
@@ -28,6 +30,14 @@ It will be hands-on so shout out immediately if the pace is too fast.
 Immediately state if you are running into technical problems. 
 
 Participate, participate, participate!
+
+# Debugging during lectures
+
+This course is mixes slides and live coding. If you run into problems during the live coding sections then ask me for a more time or help. 
+
+If I evaluate that the lecture must proceed then please drop it and debug later. 
+
+I don't want you to lose out on important new information.
 
 ## Topics vs. Learning Goals + Exam
 
