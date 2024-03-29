@@ -110,7 +110,7 @@ link:00._Course_Material/01._Assignments/04._Continuous_Integration/create_a_git
 | 
 | 
 
-| link:Cloud00._Course_Material/02._Slides/05._Cloud/05._Cloud.md[Cloud] 
+| link:00._Course_Material/02._Slides/05._Cloud/05._Cloud.md[Cloud] 
 | Mar. 19th
 a|
 * Cloud providers 
